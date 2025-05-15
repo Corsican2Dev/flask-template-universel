@@ -1,5 +1,16 @@
 # 🧪 Template Flask Universel - Local + o2switch
 
+<p align="center">
+  <img src="static/img/banniere_app_flask_template.png" alt="Flask Starter Banner" width="600"/>
+</p>
+
+<p align="center">
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Corsican2Dev/flask-template-universel" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/Corsican2Dev/flask-template-universel" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/Corsican2Dev/flask-template-universel?style=social" />
+</p>
+
 Ce template est conçu pour permettre un développement local rapide ainsi qu’un déploiement propre sur o2switch via Passenger.
 
 ## ✅ Structure
